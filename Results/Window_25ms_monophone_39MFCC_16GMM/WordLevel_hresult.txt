@@ -1,0 +1,10 @@
+HResults -A -n -A -T 1 -I labels\Test_Labels.mlf Keywords Results\Window_25ms_monophone_39MFCC_16GMM\WordLevel_recout.mlf 
+HResults -A -n -A -T 1 -I labels\Test_Labels.mlf Keywords Results\Window_25ms_monophone_39MFCC_16GMM\WordLevel_recout.mlf 
+====================== HTK Results Analysis =======================
+  Date: Mon Jan 23 03:49:22 2023
+  Ref : labels\Test_Labels.mlf
+  Rec : Results\Window_25ms_monophone_39MFCC_16GMM\WordLevel_recout.mlf
+------------------------ Overall Results --------------------------
+SENT: %Correct=91.25 [H=73, S=7, N=80]
+WORD: %Corr=97.88, Acc=97.03 [H=231, D=3, S=2, I=2, N=236]
+===================================================================

@@ -1,0 +1,2 @@
+$word = sil|one|two|four|eight;
+([sil] < $word >[sil])		

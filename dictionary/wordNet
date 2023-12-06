@@ -1,0 +1,36 @@
+VERSION=1.0
+N=10   L=24   
+I=0    W=sil                 
+I=1    W=eight               
+I=2    W=!NULL               
+I=3    W=four                
+I=4    W=two                 
+I=5    W=one                 
+I=6    W=sil                 
+I=7    W=sil                 
+I=8    W=!NULL               
+I=9    W=!NULL               
+J=0     S=2    E=0    
+J=1     S=2    E=1    
+J=2     S=7    E=1    
+J=3     S=9    E=1    
+J=4     S=1    E=2    
+J=5     S=3    E=2    
+J=6     S=4    E=2    
+J=7     S=5    E=2    
+J=8     S=6    E=2    
+J=9     S=2    E=3    
+J=10    S=7    E=3    
+J=11    S=9    E=3    
+J=12    S=2    E=4    
+J=13    S=7    E=4    
+J=14    S=9    E=4    
+J=15    S=2    E=5    
+J=16    S=7    E=5    
+J=17    S=9    E=5    
+J=18    S=2    E=6    
+J=19    S=7    E=6    
+J=20    S=9    E=6    
+J=21    S=9    E=7    
+J=22    S=0    E=8    
+J=23    S=2    E=8    

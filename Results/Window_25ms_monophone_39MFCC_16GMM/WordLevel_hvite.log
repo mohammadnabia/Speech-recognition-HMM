@@ -1,0 +1,164 @@
+HVite -A -T 1 -o N -C lib\htk_config2.txt -H models\Window_25ms_monophone_39MFCC_16GMM\hmm15\hmmdefs -S SCRIPTS\Test.scp -i Results\Window_25ms_monophone_39MFCC_16GMM\WordLevel_recout.mlf -w dictionary\wordNet -s 1 -p -120 dictionary\wordDict Keywords 
+Read 5 physical / 5 logical HMMs
+Read lattice with 10 nodes / 24 arcs
+Created network with 19 nodes / 33 links
+File: SpeechData/one/onesp45.mfc
+sil one sil  ==  [178 frames] -1.8328 [Ac=153.8 LM=-480.0] (Act=16.7)
+File: SpeechData/one/onesp46.mfc
+sil one sil  ==  [414 frames] 12.6840 [Ac=5731.2 LM=-480.0] (Act=16.9)
+File: SpeechData/one/onesp47.mfc
+sil one sil  ==  [174 frames] -9.2861 [Ac=-1135.8 LM=-480.0] (Act=16.6)
+File: SpeechData/one/onesp48.mfc
+sil eight sil  ==  [161 frames] -20.8040 [Ac=-2869.4 LM=-480.0] (Act=16.6)
+File: SpeechData/one/onesp49.mfc
+sil one sil  ==  [130 frames] -53.1492 [Ac=-6429.4 LM=-480.0] (Act=16.5)
+File: SpeechData/one/onesp50.mfc
+sil one sil  ==  [162 frames] -49.8833 [Ac=-7601.1 LM=-480.0] (Act=16.6)
+File: SpeechData/one/onesp51.mfc
+sil one sil  ==  [118 frames] -51.8328 [Ac=-5636.3 LM=-480.0] (Act=16.5)
+File: SpeechData/one/onesp52.mfc
+sil one sil  ==  [150 frames] -48.8079 [Ac=-6841.2 LM=-480.0] (Act=16.6)
+File: SpeechData/one/onesp53.mfc
+sil one sil  ==  [118 frames] -53.2727 [Ac=-5806.2 LM=-480.0] (Act=16.5)
+File: SpeechData/one/onesp54.mfc
+sil one sil  ==  [186 frames] -46.7847 [Ac=-8222.0 LM=-480.0] (Act=16.7)
+File: SpeechData/one/onesp55.mfc
+sil one sil  ==  [106 frames] -47.8865 [Ac=-4596.0 LM=-480.0] (Act=16.4)
+File: SpeechData/one/onesp56.mfc
+sil one sil  ==  [146 frames] -16.5075 [Ac=-1930.1 LM=-480.0] (Act=16.6)
+File: SpeechData/one/onesp57.mfc
+sil one sil  ==  [168 frames] -52.0901 [Ac=-8271.1 LM=-480.0] (Act=16.6)
+File: SpeechData/one/onesp58.mfc
+sil one sil  ==  [218 frames] -49.4544 [Ac=-10301.1 LM=-480.0] (Act=16.7)
+File: SpeechData/one/onesp59.mfc
+sil one sil  ==  [118 frames] -39.0125 [Ac=-4123.5 LM=-480.0] (Act=16.5)
+File: SpeechData/one/onesp60.mfc
+sil one sil  ==  [178 frames] -51.7893 [Ac=-8738.5 LM=-480.0] (Act=16.7)
+File: SpeechData/one/onesp61.mfc
+sil one sil  ==  [308 frames] -49.4893 [Ac=-14762.7 LM=-480.0] (Act=16.8)
+File: SpeechData/one/onesp62.mfc
+one sil  ==  [198 frames] -49.6022 [Ac=-9461.2 LM=-360.0] (Act=16.7)
+File: SpeechData/one/onesp63.mfc
+sil one sil  ==  [148 frames] -55.2112 [Ac=-7691.3 LM=-480.0] (Act=16.6)
+File: SpeechData/one/onesp64.mfc
+sil one sil  ==  [218 frames] -50.6241 [Ac=-10556.1 LM=-480.0] (Act=16.7)
+File: SpeechData/two/twosp45.mfc
+sil two sil  ==  [146 frames] 1.4167 [Ac=686.8 LM=-480.0] (Act=16.6)
+File: SpeechData/two/twosp46.mfc
+sil two sil  ==  [134 frames] -18.6421 [Ac=-2018.0 LM=-480.0] (Act=16.5)
+File: SpeechData/two/twosp47.mfc
+sil two sil  ==  [174 frames] -7.7302 [Ac=-865.1 LM=-480.0] (Act=16.6)
+File: SpeechData/two/twosp48.mfc
+sil eight sil  ==  [171 frames] -7.8178 [Ac=-856.8 LM=-480.0] (Act=16.6)
+File: SpeechData/two/twosp49.mfc
+sil two sil  ==  [182 frames] -38.1883 [Ac=-6470.3 LM=-480.0] (Act=16.7)
+File: SpeechData/two/twosp50.mfc
+sil two sil  ==  [150 frames] -48.4400 [Ac=-6786.0 LM=-480.0] (Act=16.6)
+File: SpeechData/two/twosp51.mfc
+sil two sil  ==  [142 frames] -48.5143 [Ac=-6409.0 LM=-480.0] (Act=16.6)
+File: SpeechData/two/twosp52.mfc
+sil two sil  ==  [146 frames] -45.4911 [Ac=-6161.7 LM=-480.0] (Act=16.6)
+File: SpeechData/two/twosp53.mfc
+sil two sil  ==  [110 frames] -52.4089 [Ac=-5285.0 LM=-480.0] (Act=16.4)
+File: SpeechData/two/twosp54.mfc
+sil two sil  ==  [118 frames] -50.6213 [Ac=-5493.3 LM=-480.0] (Act=16.5)
+File: SpeechData/two/twosp55.mfc
+sil two sil  ==  [138 frames] -45.3412 [Ac=-5777.1 LM=-480.0] (Act=16.6)
+File: SpeechData/two/twosp56.mfc
+sil two sil  ==  [154 frames] -10.6166 [Ac=-1155.0 LM=-480.0] (Act=16.6)
+File: SpeechData/two/twosp57.mfc
+sil two sil  ==  [218 frames] -50.6722 [Ac=-10566.5 LM=-480.0] (Act=16.7)
+File: SpeechData/two/twosp58.mfc
+sil two sil  ==  [178 frames] -50.5741 [Ac=-8522.2 LM=-480.0] (Act=16.7)
+File: SpeechData/two/twosp59.mfc
+sil two sil  ==  [128 frames] -54.0686 [Ac=-6440.8 LM=-480.0] (Act=16.5)
+File: SpeechData/two/twosp60.mfc
+sil two sil  ==  [208 frames] -51.7344 [Ac=-10280.7 LM=-480.0] (Act=16.7)
+File: SpeechData/two/twosp61.mfc
+sil two sil  ==  [308 frames] -51.6065 [Ac=-15414.8 LM=-480.0] (Act=16.8)
+File: SpeechData/two/twosp62.mfc
+sil two sil  ==  [218 frames] -49.3837 [Ac=-10285.6 LM=-480.0] (Act=16.7)
+File: SpeechData/two/twosp63.mfc
+sil two sil sil  ==  [198 frames] -52.0843 [Ac=-9712.7 LM=-600.0] (Act=16.7)
+File: SpeechData/two/twosp64.mfc
+sil two sil  ==  [238 frames] -52.0279 [Ac=-11902.6 LM=-480.0] (Act=16.7)
+File: SpeechData/four/foursp45.mfc
+sil four sil  ==  [158 frames] -13.6786 [Ac=-1681.2 LM=-480.0] (Act=16.6)
+File: SpeechData/four/foursp46.mfc
+sil four sil  ==  [198 frames] -6.3703 [Ac=-781.3 LM=-480.0] (Act=16.7)
+File: SpeechData/four/foursp47.mfc
+sil four sil  ==  [142 frames] -18.2514 [Ac=-2111.7 LM=-480.0] (Act=16.6)
+File: SpeechData/four/foursp48.mfc
+sil four sil  ==  [164 frames] -16.9052 [Ac=-2292.4 LM=-480.0] (Act=16.6)
+File: SpeechData/four/foursp49.mfc
+sil four sil  ==  [178 frames] -50.1966 [Ac=-8455.0 LM=-480.0] (Act=16.7)
+File: SpeechData/four/foursp50.mfc
+sil four sil  ==  [130 frames] -50.6385 [Ac=-6103.0 LM=-480.0] (Act=16.5)
+File: SpeechData/four/foursp51.mfc
+sil four sil  ==  [162 frames] -49.7088 [Ac=-7572.8 LM=-480.0] (Act=16.6)
+File: SpeechData/four/foursp52.mfc
+sil four sil  ==  [142 frames] -48.6381 [Ac=-6426.6 LM=-480.0] (Act=16.6)
+File: SpeechData/four/foursp53.mfc
+sil four sil  ==  [130 frames] -52.9083 [Ac=-6398.1 LM=-480.0] (Act=16.5)
+File: SpeechData/four/foursp54.mfc
+sil four sil  ==  [174 frames] -50.0553 [Ac=-8229.6 LM=-480.0] (Act=16.6)
+File: SpeechData/four/foursp55.mfc
+sil four sil  ==  [130 frames] -45.1946 [Ac=-5395.3 LM=-480.0] (Act=16.5)
+File: SpeechData/four/foursp56.mfc
+sil four sil  ==  [130 frames] -28.2795 [Ac=-3196.3 LM=-480.0] (Act=16.5)
+File: SpeechData/four/foursp57.mfc
+four sil  ==  [168 frames] -53.2374 [Ac=-8583.9 LM=-360.0] (Act=16.6)
+File: SpeechData/four/foursp58.mfc
+sil four sil  ==  [238 frames] -50.7754 [Ac=-11604.5 LM=-480.0] (Act=16.7)
+File: SpeechData/four/foursp59.mfc
+sil four sil  ==  [98 frames] -56.4421 [Ac=-5051.3 LM=-480.0] (Act=16.4)
+File: SpeechData/four/foursp60.mfc
+sil four sil  ==  [238 frames] -50.5415 [Ac=-11548.9 LM=-480.0] (Act=16.7)
+File: SpeechData/four/foursp61.mfc
+sil four sil  ==  [378 frames] -50.0398 [Ac=-18435.0 LM=-480.0] (Act=16.8)
+File: SpeechData/four/foursp62.mfc
+sil four sil  ==  [178 frames] -48.3652 [Ac=-8129.0 LM=-480.0] (Act=16.7)
+File: SpeechData/four/foursp63.mfc
+sil four sil  ==  [188 frames] -47.9105 [Ac=-8527.2 LM=-480.0] (Act=16.7)
+File: SpeechData/four/foursp64.mfc
+sil four sil  ==  [248 frames] -45.2634 [Ac=-10745.3 LM=-480.0] (Act=16.8)
+File: SpeechData/eight/eightsp45.mfc
+sil eight sil  ==  [118 frames] -28.2822 [Ac=-2857.3 LM=-480.0] (Act=16.5)
+File: SpeechData/eight/eightsp46.mfc
+sil eight sil  ==  [182 frames] -13.3096 [Ac=-1942.4 LM=-480.0] (Act=16.7)
+File: SpeechData/eight/eightsp47.mfc
+sil eight sil  ==  [198 frames] -3.8786 [Ac=-288.0 LM=-480.0] (Act=16.7)
+File: SpeechData/eight/eightsp48.mfc
+sil eight sil  ==  [132 frames] -31.9798 [Ac=-3741.3 LM=-480.0] (Act=16.5)
+File: SpeechData/eight/eightsp49.mfc
+sil eight sil  ==  [142 frames] -51.9611 [Ac=-6898.5 LM=-480.0] (Act=16.6)
+File: SpeechData/eight/eightsp50.mfc
+sil eight sil  ==  [130 frames] -51.7869 [Ac=-6252.3 LM=-480.0] (Act=16.5)
+File: SpeechData/eight/eightsp51.mfc
+sil eight sil  ==  [178 frames] -49.9596 [Ac=-8412.8 LM=-480.0] (Act=16.7)
+File: SpeechData/eight/eightsp52.mfc
+sil eight sil  ==  [158 frames] -50.1527 [Ac=-7444.1 LM=-480.0] (Act=16.6)
+File: SpeechData/eight/eightsp53.mfc
+sil eight sil  ==  [146 frames] -50.8521 [Ac=-6944.4 LM=-480.0] (Act=16.6)
+File: SpeechData/eight/eightsp54.mfc
+sil eight sil  ==  [126 frames] -41.6980 [Ac=-4773.9 LM=-480.0] (Act=16.5)
+File: SpeechData/eight/eightsp55.mfc
+sil eight sil  ==  [146 frames] -36.4876 [Ac=-4847.2 LM=-480.0] (Act=16.6)
+File: SpeechData/eight/eightsp56.mfc
+sil eight sil  ==  [130 frames] -33.7066 [Ac=-3901.9 LM=-480.0] (Act=16.5)
+File: SpeechData/eight/eightsp57.mfc
+eight sil  ==  [178 frames] -52.5770 [Ac=-8998.7 LM=-360.0] (Act=16.7)
+File: SpeechData/eight/eightsp58.mfc
+eight sil  ==  [238 frames] -49.3023 [Ac=-11374.0 LM=-360.0] (Act=16.7)
+File: SpeechData/eight/eightsp59.mfc
+eight sil  ==  [158 frames] -52.9483 [Ac=-8005.8 LM=-360.0] (Act=16.6)
+File: SpeechData/eight/eightsp60.mfc
+sil eight sil  ==  [228 frames] -51.6137 [Ac=-11287.9 LM=-480.0] (Act=16.7)
+File: SpeechData/eight/eightsp61.mfc
+sil eight sil  ==  [358 frames] -49.6962 [Ac=-17311.2 LM=-480.0] (Act=16.8)
+File: SpeechData/eight/eightsp62.mfc
+sil eight sil  ==  [268 frames] -50.8181 [Ac=-13139.2 LM=-480.0] (Act=16.8)
+File: SpeechData/eight/eightsp63.mfc
+eight sil  ==  [138 frames] -53.6991 [Ac=-7050.5 LM=-360.0] (Act=16.6)
+File: SpeechData/eight/eightsp64.mfc
+sil eight sil  ==  [228 frames] -50.5781 [Ac=-11051.8 LM=-480.0] (Act=16.7)

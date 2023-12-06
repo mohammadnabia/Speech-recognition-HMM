@@ -1,0 +1,397 @@
+#!MLF!#
+"SpeechData/one/onesp45.lab"
+0 5692500 sil
+5692500 10623125 one
+10623125 17985625 sil
+.
+"SpeechData/one/onesp46.lab"
+0 6336875 sil
+6336875 12486875 one
+12486875 41585625 sil
+.
+"SpeechData/one/onesp47.lab"
+0 6231250 sil
+6231250 11718750 one
+11718750 17585625 sil
+.
+"SpeechData/one/onesp48.lab"
+0 6189375 sil
+6189375 12968750 one
+12968750 16306250 sil
+.
+"SpeechData/one/onesp49.lab"
+0 2500000 sil
+2500000 9375000 one
+9375000 13185625 sil
+.
+"SpeechData/one/onesp50.lab"
+0 3187500 sil
+3187500 7500000 one
+7500000 16385625 sil
+.
+"SpeechData/one/onesp51.lab"
+0 3330000 sil
+3330000 7812500 one
+7812500 11985625 sil
+.
+"SpeechData/one/onesp52.lab"
+0 4203750 sil
+4203750 8750000 one
+8750000 15185625 sil
+.
+"SpeechData/one/onesp53.lab"
+0 2512500 sil
+2512500 7500000 one
+7500000 11985625 sil
+.
+"SpeechData/one/onesp54.lab"
+0 3093750 sil
+3093750 8750000 one
+8750000 18785625 sil
+.
+"SpeechData/one/onesp55.lab"
+0 3058125 sil
+3058125 8437500 one
+8437500 10785625 sil
+.
+"SpeechData/one/onesp56.lab"
+0 4911250 sil
+4911250 10937500 one
+10937500 14785625 sil
+.
+"SpeechData/one/onesp57.lab"
+0 1778125 sil
+1778125 8201250 one
+8201250 16953750 sil
+.
+"SpeechData/one/onesp58.lab"
+0 2023750 sil
+2023750 9185000 one
+9185000 21941250 sil
+.
+"SpeechData/one/onesp59.lab"
+0 270625 sil
+270625 8291875 one
+8291875 11978750 sil
+.
+"SpeechData/one/onesp60.lab"
+0 4901875 sil
+4901875 10582500 one
+10582500 17951250 sil
+.
+"SpeechData/one/onesp61.lab"
+0 13697500 sil
+13697500 18141875 one
+18141875 30916250 sil
+.
+"SpeechData/one/onesp62.lab"
+0 5590625 one
+5590625 19946250 sil
+.
+"SpeechData/one/onesp63.lab"
+0 1163125 sil
+1163125 8061250 one
+8061250 14973125 sil
+.
+"SpeechData/one/onesp64.lab"
+0 7855000 sil
+7855000 12874375 one
+12874375 21960000 sil
+.
+"SpeechData/two/twosp45.lab"
+0 5572500 sil
+5572500 9066250 two
+9066250 14785625 sil
+.
+"SpeechData/two/twosp46.lab"
+0 5633750 sil
+5633750 10474375 two
+10474375 13585625 sil
+.
+"SpeechData/two/twosp47.lab"
+0 7278750 sil
+7278750 11956875 two
+11956875 17585625 sil
+.
+"SpeechData/two/twosp48.lab"
+0 8140625 sil
+8140625 13654375 two
+13654375 17265625 sil
+.
+"SpeechData/two/twosp49.lab"
+0 5312500 sil
+5312500 9375000 two
+9375000 18385625 sil
+.
+"SpeechData/two/twosp50.lab"
+0 4697500 sil
+4697500 8125000 two
+8125000 15185625 sil
+.
+"SpeechData/two/twosp51.lab"
+0 4797500 sil
+4797500 9062500 two
+9062500 14385625 sil
+.
+"SpeechData/two/twosp52.lab"
+0 4928125 sil
+4928125 8545000 two
+8545000 14785625 sil
+.
+"SpeechData/two/twosp53.lab"
+0 3046250 sil
+3046250 7500000 two
+7500000 11185625 sil
+.
+"SpeechData/two/twosp54.lab"
+0 1211875 sil
+1211875 5000000 two
+5000000 11985625 sil
+.
+"SpeechData/two/twosp55.lab"
+0 5946875 sil
+5946875 10946875 two
+10946875 13985625 sil
+.
+"SpeechData/two/twosp56.lab"
+0 7029375 sil
+7029375 11875000 two
+11875000 15585625 sil
+.
+"SpeechData/two/twosp57.lab"
+0 6256875 sil
+6256875 1078125 two
+1078125 22000000 sil
+.
+"SpeechData/two/twosp58.lab"
+0 4950625 two
+4950625 17967500 sil
+.
+"SpeechData/two/twosp59.lab"
+0 960625 sil
+960625 5696875 two
+5696875 12965000 sil
+.
+"SpeechData/two/twosp60.lab"
+0 4488125 sil
+4488125 7669375 two
+7669375 20943125 sil
+.
+"SpeechData/two/twosp61.lab"
+0 15541875 sil
+15541875 18085625 two
+18085625 30945000 sil
+.
+"SpeechData/two/twosp62.lab"
+0 1508125 sil
+1508125 5078750 two
+5078750 21940000 sil
+.
+"SpeechData/two/twosp63.lab"
+0 2164375 sil
+2164375 7178125 two
+7178125 19928125 sil
+.
+"SpeechData/two/twosp64.lab"
+0 7075000 sil
+7075000 11448125 two
+11448125 23956250 sil
+.
+"SpeechData/four/foursp45.lab"
+0 3098750 sil
+3098750 8778750 four
+8778750 15985625 sil
+.
+"SpeechData/four/foursp46.lab"
+0 6865625 sil
+6865625 12489375 four
+12489375 19985625 sil
+.
+"SpeechData/four/foursp47.lab"
+0 5720000 sil
+570000 11441250 four
+11441250 14385625 sil
+.
+"SpeechData/four/foursp48.lab"
+0 5441250 sil
+5441250 11363750 four
+11363750 16625625 sil
+.
+"SpeechData/four/foursp49.lab"
+0 3581250 sil
+3581250 10625000 four
+10625000 17985625 sil
+.
+"SpeechData/four/foursp50.lab"
+0 4531250 sil
+4531250 9375000 four
+9375000 13185625 sil
+.
+"SpeechData/four/foursp51.lab"
+0 5945625 sil
+5945625 11250000 four
+11250000 16385625 sil
+.
+"SpeechData/four/foursp52.lab"
+0 1963750 sil
+1963750 7500000 four
+7500000 14385625 sil
+.
+"SpeechData/four/foursp53.lab"
+0 3730000 sil
+3730000 10000000 four
+10000000 13185625 sil
+.
+"SpeechData/four/foursp54.lab"
+0 5278125 sil
+5278125 11875000 four
+11875000 17585625 sil
+.
+"SpeechData/four/foursp55.lab"
+0 3912500 sil
+3912500 10625000 four
+10625000 13185625 sil
+.
+"SpeechData/four/foursp56.lab"
+0 2628125 sil
+2628125 9375000 four
+9375000 13185625 sil
+.
+"SpeechData/four/foursp57.lab"
+0 7496250 four
+7496250 16953750 sil
+.
+"SpeechData/four/foursp58.lab"
+0 4753750 sil
+4753750 11705000 four
+11705000 23946250 sil
+.
+"SpeechData/four/foursp59.lab"
+0 1433750 sil
+1433750 7262500 four
+7262500 9982500 sil
+.
+"SpeechData/four/foursp60.lab"
+0 5432500 sil
+5432500 12151875 four
+12151875 23928750 sil
+.
+"SpeechData/four/foursp61.lab"
+0 15625000 sil
+15625000 20980625 four
+20980625 37931250 sil
+.
+"SpeechData/four/foursp62.lab"
+0 2707500 sil
+2707500 7867500 four
+7867500 17946250 sil
+.
+"SpeechData/four/foursp63.lab"
+0 2141875 sil
+2141875 10433750 four
+10433750 18971875 sil
+.
+"SpeechData/four/foursp64.lab"
+0 8386250 sil
+8386250 13911250 four
+13911250 24955000 sil
+.
+"SpeechData/eight/eightsp45.lab"
+0 842500 sil
+842500 6885000 eight
+6885000 11985625 sil
+.
+"SpeechData/eight/eightsp46.lab"
+0 6481875 sil
+6481875 13561875 eight
+13561875 18385625 sil
+.
+"SpeechData/eight/eightsp47.lab"
+0 7442500 sil
+7442500 13390000 eight
+13390000 19967500 sil
+.
+"SpeechData/eight/eightsp48.lab"
+0 4248750 sil
+4248750 10775000 eight
+10775000 13425625 sil
+.
+"SpeechData/eight/eightsp49.lab"
+0 1622500 sil
+1622500 9440000 eight
+9440000 14385625 sil
+.
+"SpeechData/eight/eightsp50.lab"
+0 2968125 sil
+2968125 9375000 eight
+9375000 13185625 sil
+.
+"SpeechData/eight/eightsp51.lab"
+0 5106250 sil
+5106250 11875000 eight
+11875000 17985625 sil
+.
+"SpeechData/eight/eightsp52.lab"
+0 4879375 sil
+4879375 12327500 eight
+12327500 15985625 sil
+.
+"SpeechData/eight/eightsp53.lab"
+0 3089375 sil
+3089375 10313750 eight
+10313750 14785625 sil
+.
+"SpeechData/eight/eightsp54.lab"
+0 1578125 sil
+1578125 9375000 eight
+9375000 12785625 sil
+.
+"SpeechData/eight/eightsp55.lab"
+0 2580000 sil
+2580000 10625000 eight
+10625000 14785625 sil
+.
+"SpeechData/eight/eightsp56.lab"
+0 3245000 sil
+3245000 10631875 eight
+10631875 13185625 sil
+.
+"SpeechData/eight/eightsp57.lab"
+0 8245000 eight
+8245000 17870000 sil
+.
+"SpeechData/eight/eightsp58.lab"
+0 130000 sil
+130000 9002500 eight
+9002500 23870000 sil
+.
+"SpeechData/eight/eightsp59.lab"
+0 1081875 sil
+1081875 9551250 eight
+9551250 15884375 sil
+.
+"SpeechData/eight/eightsp60.lab"
+0 5185000 sil
+5185000 12837500 eight
+12837500 22896250 sil
+.
+"SpeechData/eight/eightsp61.lab"
+0 14965000 sil
+14965000 21489375 eight
+21489375 35935000 sil
+.
+"SpeechData/eight/eightsp62.lab"
+0 5623750 sil
+5623750 12100000 eight
+12100000 26878125 sil
+.
+"SpeechData/eight/eightsp63.lab"
+0 265000 sil
+265000 6993750 eight
+6993750 13936875 sil
+.
+"SpeechData/eight/eightsp64.lab"
+0 5060000 sil
+5060000 11111250 eight
+11111250 22958750 sil
+.

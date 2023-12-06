@@ -1,0 +1,26 @@
+\data\
+ngram 1=7
+ngram 2=10
+
+\1-grams:
+-99.999	!ENTER	-2.2455
+-1.2041	eight	-1.6435
+-1.2041	four	-1.6435
+-1.2041	one	-1.6435
+-0.3010	sil	-1.8476
+-1.2041	two	-1.6435
+-0.6021	!EXIT
+
+\2-grams:
+-0.0012	!ENTER sil
+-0.0050	eight sil
+-0.0050	four sil
+-0.0050	one sil
+-0.9081	sil eight
+-0.9081	sil four
+-0.9081	sil one
+-0.9081	sil two
+-0.3023	sil !EXIT
+-0.0050	two sil
+
+\end\
