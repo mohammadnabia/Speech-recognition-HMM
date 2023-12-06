@@ -66,7 +66,8 @@ Evaluate the results using HResults.
 
 5. **Customization:**
   - Feel free to customize the HMM parameters, such as the number of states, features, etc., in the source code in the `src/` directory.
-  - 
+
+
 <sub> Ensure HTK commands are accessible in the system's PATH. </sub>
 
 
