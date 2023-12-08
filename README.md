@@ -172,7 +172,7 @@ dos(HResultCommand);
 EndDate=datestr(now)
 
 ```
-#  Acknowledgments
+## Acknowledgments
 This project utilizes the HTK library for efficient implementation of Hidden Markov Models.
 
 ## Contributing:
